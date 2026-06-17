@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.middle{
+    display: flex;
+}
+.left,.right{
+    margin-top: 20px;
+}
+.left{
+    margin-bottom: 10px;
+    width: 50%;
+
+}
+h2,h4{
+    margin-left: 20px;
+}
+.button{
+    margin-left: 130px;
+    margin-top: 50px;
+}
