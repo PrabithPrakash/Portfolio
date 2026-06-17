@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.name{
+    margin-right: 800px;
+    color: #ffffff;
+    margin-left: 60px;
+}
+
+.container-fluid{
+    margin-top: -10px;
+    background-color: rgb(83, 94, 252);
+    height: 60px;
+    margin-bottom: -10px;
+}
+.bal{
+    margin-top: -30px;
+    width: 100%;
+    height: 700px;
+    background-image: url(https://template.canva.com/EAGQDGxKpkA/1/0/900w-YbIIM7dK-QM.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+h1{
+    margin-left: 20px;
+}
+.cardes{
+    display: flex;
+}
+.button{
+    margin-left: 240px;
+}
+.foot{
+    margin-left: 48%;
+}
+.email{
+    
+    height: 31px;
+    background-color: rgb(131, 131, 245);
+}
